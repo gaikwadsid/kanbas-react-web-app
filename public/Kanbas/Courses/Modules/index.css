@@ -53,3 +53,19 @@
     position: relative;
     flex-direction: column;
 }
+
+.wd-todo i {
+  color: red;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.wd-todo a {
+  color: red;
+}
+
+.wd-coming-up i {
+  color: gray;
+  text-align: center;
+  font-size: 1.5em;
+}
