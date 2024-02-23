@@ -1,0 +1,9 @@
+.wd-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.wd-buttons .btn {
+    width: 100%;
+}

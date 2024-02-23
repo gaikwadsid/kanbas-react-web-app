@@ -66,6 +66,14 @@
   color: red;
 }
 
+.wd-todo {
+  background-color: red;
+  color: white;
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 5px;
+}
+
 .wd-coming-up i {
   color: gray;
   text-align: center;
